@@ -3,7 +3,7 @@
 ## Ps
 ##### Photography
 | Software | Win | Mac | Linux | License |
-|--------|--------|--------|--------|--------|--------|--------|
+|--------|--------|--------|--------|--------|
 |GIMP| $\checkmark$ | $\checkmark$ | $\checkmark$ | Free & open source|
 |Sumo Paint|  $\checkmark$ | $\checkmark$ | $\checkmark$ |  Free of charge|
 |Affinity Photo| $\checkmark$ | $\checkmark$|| Single purchase|
@@ -26,7 +26,7 @@
 
 ## Ai
 | Software | Win | Mac | Linux | License |
-|--------|--------|--------|--------|--------|--------|--------|
+|--------|--------|--------|--------|--------|
 |Inkscape| $\checkmark$ | $\checkmark$ | $\checkmark$ | Free & open source|
 |Vectr|  $\checkmark$ | $\checkmark$ | $\checkmark$ | Free of charge|
 |Boxy SVG| $\checkmark$ | $\checkmark$|$\checkmark$|Free of charge|
